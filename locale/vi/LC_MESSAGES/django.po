@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-21 11:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: grabem/settings.py:113
+msgid "English Uk"
+msgstr ""
+
+#: grabem/settings.py:114
+msgid "Georgian"
+msgstr ""
+
+#: grabem/settings.py:115
+msgid "Russian"
+msgstr ""
+
+#: grabem/settings.py:116
+msgid "Vietnamese"
+msgstr ""
+
+#: grabem/settings.py:117
+msgid "Spanish"
+msgstr ""
+
+#: templates/welcome/welcome1.html:4
+msgid "I am a big boy here in the united states"
+msgstr ""
+
+#: welcome/views.py:8
+msgid "hello"
+msgstr ""
